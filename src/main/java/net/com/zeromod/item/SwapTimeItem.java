@@ -1,3 +1,5 @@
+//Swaps health over time; if the target is killed, the user's health absorbs the target's health immediately; there are some minor bugs
+
 package net.com.zeromod.item;
 
 import com.google.gson.Gson;
