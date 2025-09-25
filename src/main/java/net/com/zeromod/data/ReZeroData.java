@@ -90,7 +90,6 @@ public class ReZeroData {
                 Vec3 pos = finalLocation.getPosition();
                 float yaw = finalLocation.getYaw();
                 float pitch = finalLocation.getPitch();
-                // Dịch chuyển cuối cùng, có xử lý đúng chiều không gian và góc nhìn
                 player.teleportTo(targetLevel, pos.x, pos.y, pos.z, yaw, pitch);
             }
         }
