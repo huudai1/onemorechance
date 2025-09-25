@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "HGH",
+    "XRX",
+    "HCH"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:nether_star"
+    },
+    "H": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "R": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "item": "zeromod:swap_time",
+    "count": 1
+  }
+}

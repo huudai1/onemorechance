@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "XGX",
+        "HRH",
+        "XCX"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:ender_pearl"
+        },
+        "G": {
+            "item": "minecraft:end_crystal"
+        },
+        "X": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "R": {
+            "item": "minecraft:ender_eye"
+        },
+        "C": {
+            "item": "minecraft:clock"
+        }
+    },
+    "result": {
+        "item": "zeromod:eye_of_chronos",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "XHX",
+        "HRH",
+        "XCX"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:diamond"
+        },
+        "X": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "R": {
+            "item": "minecraft:golden_apple"
+        },
+        "C": {
+            "item": "minecraft:diamond_chestplate"
+        }
+    },
+    "result": {
+        "item": "zeromod:time_disperser",
+        "count": 1
+    }
+}

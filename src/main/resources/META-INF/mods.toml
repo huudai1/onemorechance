@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,56)"
+license="MIT"
+
+[[mods]]
+modId="zeromod"
+version="1.0.8"
+displayName="One More Chance"
+authors="Freaker"
+description='''
+Swap health with mobs, give you one more chance, return stronger.
+'''
+logoFile="assets/zeromod/textures/logo.png"
+
+[[dependencies.zeromod]]
+modId="forge"
+mandatory=true
+versionRange="[47,56)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.zeromod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20,)"
+ordering="NONE"
+side="BOTH"

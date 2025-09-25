@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "HGH",
+        "XRX",
+        "HCH"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:white_stained_glass"
+        },
+        "H": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "R": {
+            "item": "minecraft:recovery_compass"
+        },
+        "C": {
+            "item": "minecraft:clock"
+        }
+    },
+    "result": {
+        "item": "zeromod:rezero",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "!#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "!": {
+            "item": "zeromod:rezero"
+        }
+    },
+    "result": {
+        "item": "zeromod:rezero_eternal",
+        "count": 1
+    }
+}

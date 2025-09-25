@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#%#",
+        "!$@",
+        "#&#"
+    ],
+    "key": {
+        "%": {
+            "item": "minecraft:clock"
+        },
+        "@": {
+            "item": "zeromod:rezero_eternal"
+        },
+        "!": {
+            "item": "zeromod:eye_of_chronos"
+        },
+        "$": {
+            "item": "zeromod:swap_time"
+        },
+        "&": {
+            "item": "zeromod:time_disperser"
+        },
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "zeromod:cursed_heart",
+        "count": 1
+    }
+}

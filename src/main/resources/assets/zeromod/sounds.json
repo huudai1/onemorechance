@@ -1,0 +1,11 @@
+{
+  "rewind": {
+    "sounds": [
+      {
+        "name": "zeromod:rewind",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

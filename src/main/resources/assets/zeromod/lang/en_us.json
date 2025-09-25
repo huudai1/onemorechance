@@ -1,0 +1,25 @@
+{
+  "item.zeromod.empty_syringe": "Empty Syringe",
+  "item.zeromod.syringe_with_swiftness": "Syringe with Swiftness",
+  "item.zeromod.syringe_with_swiftness_sugar": "Syringe with Swiftness and Sugar",
+  "item.zeromod.rezero": "§6ReZero",
+  "item.zeromod.rezero_eternal": "§dReZero Eternal",
+  "item.zeromod.time_disperser": "§9Time Disperser",
+  "item.zeromod.swap_time": "§dTime Swap",
+  "item.zeromod.eye_of_chronos": "§dEye Of Chronos",
+  "item.zeromod.cursed_heart": "§cCursed Heart",
+
+  "itemGroup.zeromod.zero_tab": "One More Chance",
+  "item.zeromod.test": "Test",
+  "item.zeromod.eye_of_chronos.tooltip": "\"Nah, I would win. You can’t catch me.\"",
+
+
+  "item.zeromod.swap_time.tooltip": "Right-click to swap your health with the mob!",
+  "item.zeromod.cursed_heart.tooltip": "\"Evolving Power: Starts off weak but grows stronger with every mob you slay. Unlimited potential awaits... if you survive long enough.\"\n\n§c⚠ Must be worn as a helmet. Fire resistance won't save you!\"\n\n",
+
+  "item.zeromod.time_disperser.tooltip": "Delay death --- Eat, eat to survive !",
+  "item.zeromod.rezero.tooltip": "Return to your death point after 4 seconds\n\nOne turn back in time locks all other gates. No one escapes twice in the same moment !",
+  "item.zeromod.rezero_eternal.tooltip": "Return to your death point after 4 seconds\n\nOne turn back in time locks all other gates. No one escapes twice in the same moment !",
+
+  "creativetab.zero_tab": "Zero Tab"
+}
